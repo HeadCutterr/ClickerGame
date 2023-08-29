@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Shop.unity
+    guid: 6694512e565f10744bab1cfaf5b8193b
+  - enabled: 1
+    path: Assets/Scenes/Auto-farm.unity
+    guid: 4ae000d2845298d4784848c4ed968e03
+  - enabled: 1
+    path: Assets/Scenes/Skins_Background's.unity
+    guid: e65d734105235034b8d0541a74f1e88a
+  - enabled: 1
+    path: Assets/Scenes/Skins_Buttons.unity
+    guid: aa26e8363cb879c409a3001a0489e165
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 056b9011a6f88dc4b97af2757ab9d737
+  - enabled: 1
+    path: Assets/Scenes/Achievs.unity
+    guid: 6354364aeef4cf749869cba90faf38c4
+  - enabled: 1
+    path: Assets/Scenes/Language.unity
+    guid: a57400d4a8536fe4aa8b398aca39e235
+  - enabled: 1
+    path: Assets/Scenes/SecretShop.unity
+    guid: a43df4637f55a28458e4833246a56a6d
+  - enabled: 1
+    path: Assets/Scenes/ReklamaSoda Rus.unity
+    guid: 6ab38e3234064104d94e1b05d1875b07
+  - enabled: 1
+    path: Assets/Scenes/ReklamaSoda.unity
+    guid: ce9b9d86461d4774392ec4da363c45c7
+  - enabled: 1
+    path: Assets/Scenes/ReklamaSun Rus.unity
+    guid: d069f7c65b0214941bdf88a3cef9b93b
+  - enabled: 1
+    path: Assets/Scenes/ReklamaSun.unity
+    guid: e97deeaca49aced45ae592482d25102c
+  - enabled: 1
+    path: Assets/Scenes/ReklamaTools Rus.unity
+    guid: 5598028aa8cd68f42ad71437c1b9545d
+  - enabled: 1
+    path: Assets/Scenes/ReklamaTools.unity
+    guid: 9e5832f8b2bf6414789d989630176180
+  m_configObjects:
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: 7ded44cd33e63c84b9319e86ddb8ee97, type: 2}
